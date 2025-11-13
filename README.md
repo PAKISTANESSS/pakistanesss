@@ -39,21 +39,12 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pakistanesss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pakistanesss&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakistanesss&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pakistanesss&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pakistanesss&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Streak Stats" />
-</p>
 
 ---
 
@@ -76,24 +67,13 @@
 
 ---
 
-## 🐍 Watch my Contributions Get Eaten!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pakistanesss/pakistanesss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
   <a href="https://github.com/pakistanesss">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/pakistanesss">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/pakistanesss">
+  <a href="https://www.linkedin.com/in/bernardo-fcoelho/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
