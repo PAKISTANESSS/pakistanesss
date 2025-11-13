@@ -41,10 +41,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pakistanesss&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakistanesss&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pakistanesss&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</div>
 
 ---
 
